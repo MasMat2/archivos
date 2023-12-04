@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cartaporte20="http://www.sat.gob.mx/CartaPorte20" Moneda="MXN" Total="61928.00" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd  http://www.sat.gob.mx/CartaPorte20 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte20.xsd" Exportacion="01" MetodoPago="PUE" TipoDeComprobante="I" SubTotal="55200.00" Sello="HaH17fGWFJE5+9nTHLDwCbpJ1+XJR4JmI2tiN6GaQ+qjr8v6TaR6XVffgvqpsoWdby3+9nKU4XYsWXUkBqgEs5l3Q+1EB3ldw1MEWqei4eZUoHY9PlaVG1Yy2keJ6ktvVrm02BRr3d9hicx/nvXaX80p3d6zu5rWQ2Lz1fHB1wnLeNLORgyxiaFB4XyeBSZJRGwuhz6CvyCQ9DCMXYuqQJcAWTwvjKZWD9Ina5wkjw1A+H85WPGWMOyZDuR12WHQ8tNrC4+hq96ZZ4GlbCRpPVdOeiq3vahvuRMWu4yu79rZ+u+lMzHg+YZT6jShtQUA1/G/prQTwljLsk9w42qhew==" Certificado="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" NoCertificado="00001000000511082437" FormaPago="03" LugarExpedicion="64890" Fecha="2022-09-13T10:48:37" Folio="A000000052" Version="4.0" xmlns:cfdi="http://www.sat.gob.mx/cfd/4">
+  <cfdi:Emisor Rfc="EISS651205RC6" Nombre="SANDRA ENEDELIA ELIZONDO SERNA" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="HIM950519AS3" Nombre="HOME INTERIORS DE MEXICO" DomicilioFiscalReceptor="66055" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78101800" NoIdentificacion="523" Cantidad="1.00" ClaveUnidad="KGM" Unidad="Kilogramo" Descripcion="Venta a facturada" ValorUnitario="52600.00" Importe="52600.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="52600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8416.00" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="52600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.040000" Importe="2104.00" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78121601" NoIdentificacion="524" Cantidad="1.00" ClaveUnidad="KGM" Unidad="Kilogramo" Descripcion="Maniobras de carga" ValorUnitario="2600.00" Importe="2600.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="416.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosRetenidos="2104.00" TotalImpuestosTrasladados="8832.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="002" Importe="2104.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="55200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8832.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <cartaporte20:CartaPorte Version="2.0" TranspInternac="No" TotalDistRec="2200">
+      <cartaporte20:Ubicaciones>
+        <cartaporte20:Ubicacion RFCRemitenteDestinatario="LURA750405786" FechaHoraSalidaLlegada="2022-09-13T10:48:37" TipoUbicacion="Origen">
+          <cartaporte20:Domicilio CodigoPostal="66055" Pais="MEX" Estado="NLE" Municipio="021" Localidad="03" Colonia="3131" NumeroExterior="500" Calle="LAS TORRES" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2022-09-09T00:00:00" RFCRemitenteDestinatario="EEM120528966" TipoUbicacion="Destino" DistanciaRecorrida="440">
+          <cartaporte20:Domicilio CodigoPostal="96400" Pais="MEX" Estado="VER" Municipio="039" Localidad="06" Colonia="3826" NumeroExterior="509" Calle="Av. Miguel Hidalgo" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2022-09-09T00:00:00" RFCRemitenteDestinatario="MTA980204ET2" TipoUbicacion="Destino" DistanciaRecorrida="440">
+          <cartaporte20:Domicilio CodigoPostal="86030" Pais="MEX" Estado="TAB" Municipio="004" Localidad="02" Colonia="0033" NumeroExterior="109" Calle="Matias P. Piedra 109" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2022-09-09T00:00:00" RFCRemitenteDestinatario="NAMM680119VB2" TipoUbicacion="Destino" DistanciaRecorrida="440">
+          <cartaporte20:Domicilio CodigoPostal="24185" Pais="MEX" Estado="CAM" Municipio="003" Localidad="02" Colonia="0147" NumeroExterior="5" Calle="18 DE MARZO" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2022-09-09T00:00:00" RFCRemitenteDestinatario="LURA750405786" TipoUbicacion="Destino" DistanciaRecorrida="440">
+          <cartaporte20:Domicilio CodigoPostal="24010" Pais="MEX" Estado="CAM" Municipio="002" Localidad="01" Colonia="0011" NumeroExterior="136" Calle="Av. Francisco I. Madero" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2022-09-09T00:00:00" RFCRemitenteDestinatario="LURA750405786" TipoUbicacion="Destino" DistanciaRecorrida="440">
+          <cartaporte20:Domicilio CodigoPostal="97060" Pais="MEX" Estado="YUC" Municipio="050" Localidad="01" Colonia="0013" NumeroExterior="324" Calle="calle 31" />
+        </cartaporte20:Ubicacion>
+      </cartaporte20:Ubicaciones>
+      <cartaporte20:Mercancias NumTotalMercancias="5" UnidadPeso="XBX" PesoBrutoTotal="2825.00">
+        <cartaporte20:Mercancia BienesTransp="60111400" Descripcion="Decoraciones especiales para el aula y accesorios decorativos" Cantidad="53.00" ClaveUnidad="XBX" PesoEnKg="342.00" />
+        <cartaporte20:Mercancia BienesTransp="60111400" Descripcion="Decoraciones especiales para el aula y accesorios decorativos" Cantidad="251.00" ClaveUnidad="XBX" PesoEnKg="1700.00" />
+        <cartaporte20:Mercancia BienesTransp="60111400" Descripcion="Decoraciones especiales para el aula y accesorios decorativos" Cantidad="25.00" ClaveUnidad="XBX" PesoEnKg="195.00" />
+        <cartaporte20:Mercancia BienesTransp="60111400" Descripcion="Decoraciones especiales para el aula y accesorios decorativos" Cantidad="14.00" ClaveUnidad="XBX" PesoEnKg="97.00" />
+        <cartaporte20:Mercancia BienesTransp="60111400" Descripcion="Decoraciones especiales para el aula y accesorios decorativos" Cantidad="70.00" ClaveUnidad="XBX" PesoEnKg="491.00" />
+        <cartaporte20:Autotransporte NumPermisoSCT="1933EISS27062011021001004" PermSCT="TPAF01">
+          <cartaporte20:IdentificacionVehicular AnioModeloVM="2007" PlacaVM="422AG8" ConfigVehicular="C2" />
+          <cartaporte20:Seguros AseguraRespCivil="CHUBB" PolizaRespCivil="41005902" AseguraCarga="CHUBB" />
+        </cartaporte20:Autotransporte>
+      </cartaporte20:Mercancias>
+      <cartaporte20:FiguraTransporte>
+        <cartaporte20:TiposFigura TipoFigura="01" RFCFigura="CAPL8807252Z9" NumLicencia="NVOLO30022" />
+      </cartaporte20:FiguraTransporte>
+    </cartaporte20:CartaPorte>
+    <tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" FechaTimbrado="2022-09-13T10:48:38" NoCertificadoSAT="00001000000509846663" RfcProvCertif="LSO1306189R5" SelloCFD="HaH17fGWFJE5+9nTHLDwCbpJ1+XJR4JmI2tiN6GaQ+qjr8v6TaR6XVffgvqpsoWdby3+9nKU4XYsWXUkBqgEs5l3Q+1EB3ldw1MEWqei4eZUoHY9PlaVG1Yy2keJ6ktvVrm02BRr3d9hicx/nvXaX80p3d6zu5rWQ2Lz1fHB1wnLeNLORgyxiaFB4XyeBSZJRGwuhz6CvyCQ9DCMXYuqQJcAWTwvjKZWD9Ina5wkjw1A+H85WPGWMOyZDuR12WHQ8tNrC4+hq96ZZ4GlbCRpPVdOeiq3vahvuRMWu4yu79rZ+u+lMzHg+YZT6jShtQUA1/G/prQTwljLsk9w42qhew==" SelloSAT="DvXDJ25uxUhsZ56uilYZOWISUGP/WATwmqPEw3935Wp6GJt3sRwtQqi6lSEXx2e7tW4D3ELjXgGV8QV8Rpe58yedAn6mzZZMXZhUvDEEmtkflfz42wvxHeSvcfKXfz5+NF9F2EZU0R986HKPC6+yfB9QjOiMAHRIucKw0uD4q9a7YHrbofkdQ2tD69YQfty91zPAzSrDeFGwzOmILnhWb2iqseq57LASPWCchLEGjMQyVeLi4oWGodQeP9GWjNL1DBLujGqTjn8XQoY7n/gDzf0kYZQ3Uf3jYUpt2aOpZ9GbVPQ3PFLrROd0hrxnBiinjcU6mRfl8DWKla73KI3Abg==" UUID="cd37150e-b70d-4e0d-b079-7730840310e9" Version="1.1" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

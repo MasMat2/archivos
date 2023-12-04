@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cartaporte20="http://www.sat.gob.mx/CartaPorte20" Moneda="XXX" Total="0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd  http://www.sat.gob.mx/CartaPorte20 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte20.xsd" Exportacion="01" TipoDeComprobante="T" SubTotal="0" Sello="INH5AmZZpVzbk/jfG+gJbYI5/aBICIuK/KE65Nezj9p9XsR1mnJJkafrXxk3bpT9prwboqHlqnWwea15TxFyfeNLL0iU4wThtTrDm2uVG/WBgbCS/qVaSVqq8EzmASwUkGkpn3+oQx0sLaZiXIOAmZCN+ZBeQJH2YPreX0RV/M16Z95FSqpvWzADrzW+6paNp+30OjoUOJD3yQhcLhBNfGcmcY/LYIJNQvYgzAnUutAsWW5qARHCC56mZ6iaBvStX/uKGxpT0f+ULYyKJD5LyYWIaw5+aJuMHhL+hENVAdlb48AgMrdbteB/kQ7AZLDhHpLFhO8ceI8PhLaqIigOUQ==" Certificado="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" NoCertificado="00001000000511082437" LugarExpedicion="64890" Fecha="2023-08-25T19:18:56" Folio="A000000198" Version="4.0" xmlns:cfdi="http://www.sat.gob.mx/cfd/4">
+  <cfdi:Emisor Rfc="EISS651205RC6" Nombre="SANDRA ENEDELIA ELIZONDO SERNA" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="EISS651205RC6" Nombre="SANDRA ENEDELIA ELIZONDO SERNA" DomicilioFiscalReceptor="64890" RegimenFiscalReceptor="612" UsoCFDI="S01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78101800" NoIdentificacion="1006" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="Traslado de carga por carretera" ValorUnitario="0.00" Importe="0.00" ObjetoImp="01" />
+  </cfdi:Conceptos>
+  <cfdi:Complemento>
+    <cartaporte20:CartaPorte Version="2.0" TranspInternac="No" TotalDistRec="1830">
+      <cartaporte20:Ubicaciones>
+        <cartaporte20:Ubicacion RFCRemitenteDestinatario="MAB050505LX2" FechaHoraSalidaLlegada="2023-08-25T19:18:56" TipoUbicacion="Origen">
+          <cartaporte20:Domicilio CodigoPostal="66062" Pais="MEX" Estado="NLE" Municipio="021" Colonia="4331" NumeroExterior="402" Calle="Ave. Las Torres" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2023-08-30T00:00:00" RFCRemitenteDestinatario="FOVR640725843" TipoUbicacion="Destino" DistanciaRecorrida="610">
+          <cartaporte20:Domicilio CodigoPostal="30450" Pais="MEX" Estado="CHP" Municipio="009" Colonia="1374" NumeroExterior="117" Calle="3A SUR" />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2023-08-30T00:00:00" RFCRemitenteDestinatario="TAA060329410" TipoUbicacion="Destino" DistanciaRecorrida="610">
+          <cartaporte20:Domicilio CodigoPostal="30798" Pais="MEX" Estado="CHP" Municipio="089" Colonia="4530" NumeroExterior="506" Calle="libramiento sur " />
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2023-08-30T00:00:00" RFCRemitenteDestinatario="MAB050505LX2" TipoUbicacion="Destino" DistanciaRecorrida="610">
+          <cartaporte20:Domicilio CodigoPostal="30798" Pais="MEX" Estado="CHP" Municipio="089" Colonia="4530" NumeroExterior="4" Calle="CEDROS KM 4 ENTRE AV IND Y CAMINO A RAYMUNDO ENR" />
+        </cartaporte20:Ubicacion>
+      </cartaporte20:Ubicaciones>
+      <cartaporte20:Mercancias NumTotalMercancias="3" UnidadPeso="XBX" PesoBrutoTotal="5781.00">
+        <cartaporte20:Mercancia BienesTransp="53102305" Descripcion="Pañales para bebé" Cantidad="1204.00" ClaveUnidad="XBX" PesoEnKg="4500.00" />
+        <cartaporte20:Mercancia BienesTransp="53102305" Descripcion="Pañales para bebé" Cantidad="200.00" ClaveUnidad="XBX" PesoEnKg="581.00" />
+        <cartaporte20:Mercancia BienesTransp="53102305" Descripcion="Pañales para bebé" Cantidad="217.00" ClaveUnidad="XBX" PesoEnKg="700.00" />
+        <cartaporte20:Autotransporte NumPermisoSCT="1933EISS27062011021001004" PermSCT="TPAF01">
+          <cartaporte20:IdentificacionVehicular AnioModeloVM="2007" PlacaVM="422AG8" ConfigVehicular="C2" />
+          <cartaporte20:Seguros AseguraRespCivil="CHUBB" PolizaRespCivil="41005902" AseguraCarga="CHUBB" />
+        </cartaporte20:Autotransporte>
+      </cartaporte20:Mercancias>
+      <cartaporte20:FiguraTransporte>
+        <cartaporte20:TiposFigura TipoFigura="01" RFCFigura="CAPL8807252Z9" NumLicencia="NVOLO30022" />
+      </cartaporte20:FiguraTransporte>
+    </cartaporte20:CartaPorte>
+    <tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" FechaTimbrado="2023-08-25T19:18:57" NoCertificadoSAT="00001000000509846663" RfcProvCertif="LSO1306189R5" SelloCFD="INH5AmZZpVzbk/jfG+gJbYI5/aBICIuK/KE65Nezj9p9XsR1mnJJkafrXxk3bpT9prwboqHlqnWwea15TxFyfeNLL0iU4wThtTrDm2uVG/WBgbCS/qVaSVqq8EzmASwUkGkpn3+oQx0sLaZiXIOAmZCN+ZBeQJH2YPreX0RV/M16Z95FSqpvWzADrzW+6paNp+30OjoUOJD3yQhcLhBNfGcmcY/LYIJNQvYgzAnUutAsWW5qARHCC56mZ6iaBvStX/uKGxpT0f+ULYyKJD5LyYWIaw5+aJuMHhL+hENVAdlb48AgMrdbteB/kQ7AZLDhHpLFhO8ceI8PhLaqIigOUQ==" SelloSAT="Hw7aOA5eqQXhhamYa0VJiREU7K6cOr1FFzJp9E9J8G4a/J4nP1i4KxBTERtzXTE6c57YQJdyM66TO6j2mJn+6ol/YNq6HthdGRw7pHcly284rw+ho4CACTnLUksenV50vVL0g9Y67iOixKtoJN4z0jXGAcP/5sal6WVOmbYWysTx1l+LhfyAOJ2q+KqBXXi3OS0FpF/xIfrgi+hxHjcBML98Xluy6qws07+GWsQmfeQQ30Qmh9lIA91hikWzlmBip/9pJWdviTfoEk1mg+JOthU0AIrLSqnUIqGrbx3q0LDuTJmCSejF80/6lXbTS6E575E4nbVVGgXesB1xpZ2vXw==" UUID="1f455fb6-6bec-4e13-828a-aedfcd2dde89" Version="1.1" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
